@@ -16,6 +16,8 @@ const data = {
       explain:
         " Sıfırdan ileri seviyeye 'Web Geliştirme': Html, Css, Sass,Flexbox, Bootstrap, Javascript, Angular, JQuery, Asp.Net Mvc&Core Mvc",
       img: "1.jpeg",
+      anasayfa: true,
+      onay: true,
     },
     {
       id: 2,
@@ -23,6 +25,8 @@ const data = {
       explain:
         "  Sıfırdan İleri Seviye Python Dersleri.Veritabanı,Veri Analizi,Bot Yazımı,Web Geliştirme(Django)",
       img: "2.jpeg",
+      anasayfa: true,
+      onay: true,
     },
     {
       id: 3,
@@ -30,6 +34,17 @@ const data = {
       explain:
         "Modern javascript dersleri ile (ES6 & ES7+) Nodejs, Angular,React ve VueJs için sağlam bir temel oluşturun.",
       img: "3.jpeg",
+      anasayfa: true,
+      onay: true,
+    },
+    {
+      id: 4,
+      title: "Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+",
+      explain:
+        "Modern javascript dersleri ile (ES6 & ES7+) Nodejs, Angular,React ve VueJs için sağlam bir temel oluşturun.",
+      img: "3.jpeg",
+      anasayfa: true,
+      onay: true,
     },
   ],
 };
