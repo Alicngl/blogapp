@@ -62,6 +62,5 @@ router.use("/blogs", function (req, res) {
 router.use("/", function (req, res) {
   res.render("users/index", data);
 });
-console.log("asdasd");
 
 module.exports = router;
